@@ -11,20 +11,34 @@ A aplicação possui as seguintes funcionalidades:
 
 Gerenciamento de Áudios: A superclasse Áudio contém atributos comuns, como título, duração, reproduções e curtidas.
 Herança e Polimorfismo: As classes Música e Podcast herdam os comportamentos da classe Áudio, com possíveis especializações.
-Encapsulamento: A manipulação dos atributos é feita de maneira segura por meio de métodos como curtir() e reproduzir(), sem acesso direto aos atributos pelas classes externas.
+Encapsulamento: A manipulação dos atributos é feita de maneira segura por meio de métodos como :
+
+curtir()
+
+reproduzir(), sem acesso direto aos atributos pelas classes externas.
+
 Controle de Favoritos: Uma classe especial gerencia músicas e podcasts favoritos do usuário, permitindo fácil acesso a eles.
 Estrutura do Projeto 🛠️
+
 Audio (Superclasse):
 
 Atributos:
 título
+
 duração
+
 totalReproducoes
+
 curtidas
+
 classificacao
+
 Métodos:
+
 reproduzir()
+
 curtir()
+
 Musica (Subclasse de Audio):
 
 Atributo específico:
