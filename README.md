@@ -1,7 +1,5 @@
 API de Áudio 🎵
 
-Este projeto foi desenvolvido como parte de um desafio proposto no meu curso de programação. O desafio consistia em praticar conceitos de herança, encapsulamento e modelagem orientada a objetos. O objetivo era criar uma aplicação simples que simulasse o funcionamento de uma plataforma de músicas e podcasts, permitindo reproduzir e gerenciar os conteúdos de áudio.
-
 Desafio 🎯
 
 O desafio proposto foi o seguinte:
@@ -38,3 +36,5 @@ host
 Classe de controle:
 
 Gerencia uma lista de músicas e podcasts preferidos.
+
+
